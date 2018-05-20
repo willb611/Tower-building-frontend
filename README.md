@@ -1,3 +1,12 @@
+# What is this repository?
+Simple frontend application, in development.
+
+## Related links
+* [Tower-building backend](https://github.com/willb611/Tower-building)
+* [ReactJS](https://reactjs.org/)
+* [Npm](https://www.npmjs.com/)
+
+## Auto-generated documentation
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
