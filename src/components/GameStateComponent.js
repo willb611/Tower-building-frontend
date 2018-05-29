@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 class GameStateComponent extends Component {
     constructor(props) {
         super(props);
-        this.state = {'winningColor': 'Loading'}
+        this.state = {'winningColor': '???'}
     }
     componentDidMount() {
         this.LoadWinningColor()
